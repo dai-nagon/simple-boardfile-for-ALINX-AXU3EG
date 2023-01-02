@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+
+<part_info part_name="xczu3eg-sfvc-1-i">
+  <pins>
+    <!--
+    <pin index="0" name ="sysclk_p" iostandard="LVDS_25" loc="G21"/>
+    <pin index="1" name ="sysclk_n" iostandard="LVDS_25" loc="F21"/>
+    <pin index="2" name ="sysclk7425_p" iostandard="LVDS_25" loc="AK15"/>
+    <pin index="3" name ="sysclk7425_n" iostandard="LVDS_25" loc="AK14"/>
+
+    <pin index="4" name ="uart2_PL_TX" loc="F13"/>
+    <pin index="5" name ="uart2_PL_RX" loc="E13"/>
+
+    <pin index="6" name ="IIC0_SCL_MAIN" iostandard="LVCMOS33" loc="J10"/>
+    <pin index="7" name ="IIC0_SDA_MAIN" iostandard="LVCMOS33" loc="J11"/>
+    <pin index="8" name ="IIC1_SCL_MAIN" iostandard="LVCMOS33" loc="K20"/>
+    <pin index="9" name ="IIC1_SDA_MAIN" iostandard="LVCMOS33" loc="L20"/>
+    
+    <pin index="58" name ="CPU_RESET" iostandard="LVCMOS33" loc="AM13"/>
+    <pin index="59" name ="user_si570_sysclk_p" iostandard="DIFF_SSTL12" loc="AL8"/>
+    <pin index="60" name ="user_si570_sysclk_n" iostandard="DIFF_SSTL12" loc="AL7"/> 	
+    -->
+  </pins>
+</part_info>
